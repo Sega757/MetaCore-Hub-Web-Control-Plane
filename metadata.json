@@ -1,0 +1,6 @@
+{
+  "name": "MetaCore Hub — Web Control Plane",
+  "description": "Deterministic daemon-owned FSM control plane for LLM agents with strict contract validation, merge evidence gates, watchdog circuit breaker, SHA-256 tamper-evident audit log, and A2A SSRF hardening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
